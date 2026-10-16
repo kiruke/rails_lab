@@ -40,3 +40,6 @@ Dockerについても、環境構築を通して理解する。
 - Rails
 - PostgreSQL
 - Docker
+
+## 学習・練習手順
+Railsの機能を繰り返し実装するための手順は、[練習ワークフロー](docs/practice-workflow.md)を参照してください。
